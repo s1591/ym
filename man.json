@@ -1,0 +1,39 @@
+{
+  "instances": [
+    {
+      "app": "Invidious",
+      "region": "",
+      "country": "US",
+      "flag": "🇺🇸",
+      "url": "https://inv.tux.pizza"
+    },
+    {
+      "app": "Invidious",
+      "region": "",
+      "country": "US",
+      "flag": "🇺🇸",
+      "url": "https://vid.puffyan.us"
+    },
+    {
+      "app": "Invidious",
+      "region": "",
+      "country": "FR",
+      "flag": "🇫🇷",
+      "url": "https://invidious.fdn.fr"
+    },
+    {
+      "app": "Invidious",
+      "region": "",
+      "country": "JP",
+      "flag": "🇯🇵",
+      "url": "https://invidious.jing.rocks"
+    },
+    {
+      "app": "Invidious",
+      "region": "",
+      "country": "NZ",
+      "flag": "🇳🇿 ",
+      "url": "https://invidious.materialio.us"
+    }
+  ]
+}
